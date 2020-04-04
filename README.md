@@ -1,3 +1,3 @@
-# hell0-world
+# hello-world
 my first repo
-This grapical git is interesting
+
